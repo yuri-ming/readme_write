@@ -52,5 +52,6 @@ int main(){
 <www.naver.com>  
 
 ### 7.이미지
-![이미지설명](이미지링크)
+```![이미지설명](이미지링크)```
+
 ![띠용이](http://blogfiles.naver.net/20120415_243/hot0167_1334419090193y099a_JPEG/%BD%BA%C6%DD%C1%F6%B9%E43.jpg)
