@@ -5,7 +5,7 @@
 
 # 글자크기는 '#' 이용 (글머리 작성시)  
 # 소스코드 블록 삽입    
-''' <pre><code>코드내용</code></pre> '''          
+``` <pre><code>코드내용</code></pre> ```          
 <pre><code>
 #include<stdio.h>
 int main(){
@@ -14,4 +14,4 @@ int main(){
 </code></pre>     
   
 #4. 굵은글씨로 강조      
-''' 앞뒤로 * '''    
+``` 앞뒤로 * ```    
