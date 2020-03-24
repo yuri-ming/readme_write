@@ -16,9 +16,16 @@
 <pre><code>
 #include<stdio.h>
 int main(){
-  printf("Hello world!");
+  printf("코드 작성하기");
   }
-</code></pre>     
+</code></pre>   
+``` ```언어이름 코드내용 ``` ```
+```c
+#include <stdio.h>
+int main(){
+  printf("코드 하이라이트 작성하기");
+  }
+```
   
 ## 굵은글씨로 강조      
 ``` 앞뒤로 * 을 넣으면 됩니다 ```    
