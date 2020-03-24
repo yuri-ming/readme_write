@@ -19,7 +19,7 @@ int main(){
   printf("코드 작성하기");
   }
 </code></pre>   
-``` ```언어이름 코드내용 ``` ```
+``` 앞에 언어이름 붙여주면 됨 ```
 ```c
 #include <stdio.h>
 int main(){
