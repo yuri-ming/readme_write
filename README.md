@@ -12,13 +12,15 @@
 ######h5
 ```
 ### 3.소스코드 블록 삽입    
-``` <pre><code>코드내용</code></pre> ```          
+<pre><code>코드내용</code></pre>   
+
 <pre><code>
 #include<stdio.h>
 int main(){
   printf("코드 작성하기");
   }
-</code></pre>   
+</code></pre>
+
 코드에 하이라이트 넣어주고 싶으면 ```뒤에 언어이름 붙여주면 됨 
 ```c
 #include <stdio.h>
@@ -45,4 +47,6 @@ int main(){
 >> (>)의 갯수에 따라 중첩가능
 >>> 너도안녕?
 ```
-
+### 6.랑크
+**<링크주소>**
+<www.naver.com>
