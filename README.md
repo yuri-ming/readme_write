@@ -12,7 +12,7 @@
 ######h5
 ```
 ### 3.소스코드 블록 삽입    
-<pre><code>코드내용</code></pre>   
+```<pre><code>코드내용</code></pre>```   
 
 <pre><code>
 #include<stdio.h>
